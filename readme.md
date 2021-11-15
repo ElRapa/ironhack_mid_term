@@ -13,7 +13,7 @@
 - Build model that will predict the life expectancy based on features provided in the dataset
 - Explore which factors are responsible for higher life expectancy
 - Give recommendations to improve life expectancy in specific countries
-- - Does Life Expectancy habe a correlation with drinking alkonhol?
+- Does Life Expectancy habe a correlation with drinking alkohol?
 ##### 1.2.2 Data:
 Collected by World Health Organization (WHO) and United Nations (UN).
 The final dataset consists of 22 columns (20 predicting variables) and 2938 row containing data collected from the year 2000-2015 of 193 countries.
