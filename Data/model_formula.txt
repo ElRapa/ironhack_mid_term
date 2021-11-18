@@ -1,1 +1,1 @@
-0 + 70.0282 * const + -0.597 * alcohol + 1.0467 * polio + 0.2733 * total_expenditure + -4.0714 * hiv_aids + 2.0925 * gdp + -0.6509 * thinness_1_19_years + 3.4793 * schooling
+0 + 70.5375 * const + -0.4653 * alcohol + -0.3505 * hepatitis_b + 1.0602 * polio + 0.4742 * total_expenditure + -3.8487 * hiv_aids + 1.9399 * gdp + -0.6919 * thinness_1_19_years + 3.3953 * schooling
